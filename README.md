@@ -25,7 +25,7 @@
 - **运行环境**: PHP 8.0+ (推荐 8.1), Nginx
 - **加密库**: OpenSSL (RSA/AES)
 
-- **Telegram**:商用源码请联系 [@Bannedoo](https://t.me/Bannedoo)
+## Telegram:商用源码请联系 [@Bannedoo](https://t.me/Bannedoo)
 
 
 UPayU卡支付是一个数字钱包和发卡服务平台（ 虚拟/实体U卡平台，U钱包，类似于支付宝）。
@@ -47,12 +47,12 @@ UPayU卡支付是一个数字钱包和发卡服务平台（ 虚拟/实体U卡平
 8.安卓和ios双客户端。
 
 
-- **Telegram**:商用源码请联系 [@Bannedoo](https://t.me/Bannedoo)
+##Telegram:商用源码请联系 [@Bannedoo](https://t.me/Bannedoo)
 
 ![1ed26980-17ee-4a56-8604-a24a553b3163](https://github.com/user-attachments/assets/22e42880-6c72-4adb-aea7-628c9d477e44)
 ![22180411-df1b-4d14-82c1-d6c93fca2259](https://github.com/user-attachments/assets/a7262f07-e549-4345-8a1a-23d3745d5f12)
 ![24294cf4-9ce0-43f5-bae6-9d1c2b1917e2](https://github.com/user-attachments/assets/8a8e8332-ec28-47f9-9a39-938a3222adf2)
 ![9aafa522-a864-43b8-9247-bc93edd679ad](https://github.com/user-attachments/assets/190408b3-1eeb-4f1c-b630-7dd32ddb4833)
 
-- **Telegram**:商用源码请联系 [@Bannedoo](https://t.me/Bannedoo)
+##Telegram:商用源码请联系 [@Bannedoo](https://t.me/Bannedoo)
 
