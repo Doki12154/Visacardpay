@@ -25,7 +25,7 @@ Similar to crypto card projects like THPAY / WildCard.
 - **Runtime Environment**: PHP 8.0+ (Recommended 8.1), Nginx
 - **Encryption**: OpenSSL (RSA/AES)
 
-- **Telegram**: For commercial source code, please contact [@Bannedoo](https://t.me/Bannedoo)
+## Telegram: For commercial source code, please contact [@Bannedoo](https://t.me/Bannedoo)
 
 ---
 
@@ -48,11 +48,11 @@ Similar to crypto card projects like THPAY / WildCard.
 8. **Dual Clients**: Available for both Android and iOS.
 
 
-- **Telegram**: For commercial source code, please contact [@Bannedoo](https://t.me/Bannedoo)
+## Telegram: For commercial source code, please contact [@Bannedoo](https://t.me/Bannedoo)
 
 ![1ed26980-17ee-4a56-8604-a24a553b3163](https://github.com/user-attachments/assets/22e42880-6c72-4adb-aea7-628c9d477e44)
 ![22180411-df1b-4d14-82c1-d6c93fca2259](https://github.com/user-attachments/assets/a7262f07-e549-4345-8a1a-23d3745d5f12)
 ![24294cf4-9ce0-43f5-bae6-9d1c2b1917e2](https://github.com/user-attachments/assets/8a8e8332-ec28-47f9-9a39-938a3222adf2)
 ![9aafa522-a864-43b8-9247-bc93edd679ad](https://github.com/user-attachments/assets/190408b3-1eeb-4f1c-b630-7dd32ddb4833)
 
-- **Telegram**: For commercial source code, please contact [@Bannedoo](https://t.me/Bannedoo)
+## Telegram: For commercial source code, please contact [@Bannedoo](https://t.me/Bannedoo)
